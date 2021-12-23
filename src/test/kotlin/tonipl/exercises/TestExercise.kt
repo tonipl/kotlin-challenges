@@ -6,6 +6,8 @@ class TestExercise {
 
     @Test
     fun testSolution() {
-        // TODO
+        assertEquals(5, solution("abracadabra"))
+        assertEquals(1, solution("test"))
+        assertEquals(3, solution("example"))
     }
 }
