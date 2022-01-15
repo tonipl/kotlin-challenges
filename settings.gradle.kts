@@ -1,3 +1,1 @@
-
-rootProject.name = "kotlin-challenge-name"
-
+rootProject.name = "Growth of a population"
